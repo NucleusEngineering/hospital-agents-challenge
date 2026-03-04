@@ -6,11 +6,11 @@ This project is a modular, multi-agent ecosystem built using the Google Agent De
 
 The system transitions from a single chatbot to a hierarchy of specialized personas:
 
-*   **🩺 The Doctor Agent:** A clinical resident specialist. It uses RAG to reason over private medical records and provide grounded, cited answers.
-*   **🗓️ The Receptionist Agent:** An administrative specialist. It uses the Model Context Protocol (MCP) to manage appointment scheduling and check availability.
-*   **🔬 The Researcher Agent:** An academic explorer. It synthesizes local patient data with global medical research using Google Search and multi-agent synthesis.
-*   **👑 The Orchestrator Agent ("Final Boss"):** The system's triage specialist. It analyzes user intent and delegates tasks to the appropriate sub-agent using Agent-as-a-Tool (A2A) integration.
-*   **🚨 The Emergency Agent:** A crisis management specialist. It interacts with a live hospital simulation (via an MCP server) to triage patients and allocate critical resources during emergencies.
+*   **The Doctor Agent:** A clinical resident specialist. It uses RAG to reason over private medical records and provide grounded, cited answers.
+*   **The Receptionist Agent:** An administrative specialist. It uses the Model Context Protocol (MCP) to manage appointment scheduling and check availability.
+*   **The Researcher Agent:** An academic explorer. It synthesizes local patient data with global medical research using Google Search and multi-agent synthesis.
+*   **The Orchestrator Agent:** The system's triage specialist. It analyzes user intent and delegates tasks to the appropriate sub-agent using Agent-as-a-Tool (A2A) integration.
+*   **The Emergency Agent:** A crisis management specialist. It interacts with a live hospital simulation (via an MCP server) to triage patients and allocate critical resources during emergencies.
 
 ---
 

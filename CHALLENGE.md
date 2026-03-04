@@ -48,7 +48,7 @@ Now, bridge the gap between internal hospital data and global knowledge. This ag
 
 ---
 
-## Level 4: The Orchestrator Agent ("The Final Boss")
+## Level 4: The Orchestrator Agent
 **Complexity: Expert**
 
 With your team of specialists built, you must now build the intelligence that manages them. This introduces the concept of Agent-to-Agent (A2A) orchestration.
